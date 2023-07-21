@@ -1,0 +1,41 @@
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\bin\Release\Программа для тестирования.exe.config
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\bin\Release\Программа для тестирования.exe
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\bin\Release\Программа для тестирования.pdb
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\bin\Release\Редактор_тестов.exe
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\bin\Release\Редактор_тестов.pdb
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\ProgramForTesting.csprojResolveAssemblyReference.cache
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\Программа_для_тестирования.PassageOfTestingForm.resources
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\Программа_для_тестирования.RegistrationForm.resources
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\Программа_для_тестирования.Properties.Resources.resources
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\ProgramForTesting.csproj.GenerateResource.Cache
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\Программа для тестирования.exe
+D:\Учеба\C#\Курсовая\Программа для тестирования\Программа для тестирования\obj\Release\Программа для тестирования.pdb
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\bin\Release\Program_For_Testing.exe.config
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csproj.ResolveComReference.cache
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\bin\Release\Program_For_Testing.exe
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\bin\Release\Program_For_Testing.pdb
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\bin\Release\Test_Editor.exe
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\bin\Release\Test_Editor.pdb
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csprojResolveAssemblyReference.cache
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.PassageOfTestingForm.resources
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.RegistrationForm.resources
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.Properties.Resources.resources
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csproj.GenerateResource.Cache
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.exe
+D:\Учеба\C#\Курсовая\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.pdb
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\bin\Release\Program_For_Testing.exe.config
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\bin\Release\Program_For_Testing.exe
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\bin\Release\Program_For_Testing.pdb
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\bin\Release\Test_Editor.exe
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\bin\Release\Test_Editor.pdb
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\bin\Release\Test_Editor.exe.config
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csproj.ResolveComReference.cache
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.PassageOfTestingForm.resources
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.RegistrationForm.resources
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.Properties.Resources.resources
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csproj.GenerateResource.cache
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\ProgramForTesting.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.exe
+D:\Универ\Разделы дипломов\Веснецкая\ProgramForTestingStudents-master\Program For Testing\Program_For_Testing\obj\Release\Program_For_Testing.pdb
